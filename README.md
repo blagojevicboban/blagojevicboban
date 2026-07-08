@@ -1,31 +1,31 @@
-# Zdravo, ja sam Boban! 👋
+# Hi there, I'm Boban! 👋
 
 I am an IT Specialist, Software Developer, and Educator focused on bridging the gap between cutting-edge technology and vocational education. I explore the integration of AI in educational environments, build hardware-agnostic XR simulations, and design IoT architectures for real-world impact.
 
 ---
 
-### 🚀 Šta trenutno razvijam & Istražujem:
-- **AI-Driven VET Tools:** Razvoj i integracija AI asistenata i generativnih alata unutar LMS platformi (Moodle plugins).
-- **IoT & Embedded Systems:** Projektovanje nosivih uređaja sa naprednim senzorima i LTE modulima (ESP32-S3 ekosistem).
-- **WebXR & Simulations:** Kreiranje interaktivnih, hardverski nezavisnih simulacija za industrijsko i stručno obrazovanje.
-- **Modern App Ecosystems:** Izrada mobilnih i veb aplikacija kroz agilne i "agentic" pristupe razvoju softvera.
+### 🚀 What I'm Currently Developing & Exploring:
+- **AI-Driven VET Tools:** Developing and integrating AI assistants and generative tools within LMS platforms (Moodle plugins).
+- **IoT & Embedded Systems:** Designing wearable devices equipped with advanced medical sensors and LTE modules (ESP32-S3 ecosystem).
+- **WebXR & Simulations:** Creating interactive, hardware-agnostic simulations for industrial and technical vocational education.
+- **Modern App Ecosystems:** Building mobile and web applications utilizing agile and AI-accelerated ("agentic") development practices.
 
-### 🛠️ Tehnologije i alati:
-- **Jezici:** C, C++, C#, PHP, Python, JavaScript / TypeScript
-- **Ekosistem:** React Native, Expo, Apache, Virtualmin/Webmin
-- **Hardver & IoT:** ESP32, SIM800L, razni senzorski moduli
-- **AI & Edu:** Moodle plugin development, AI agenti, Prompt engineering
-
----
-
-### 📊 Moja GitHub Statistika:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=blagojevicboban&show_icons=true&theme=radical" alt="Boban's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blagojevicboban&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 🛠️ Technologies & Tools:
+- **Languages:** C, C++, C#, PHP, Python, JavaScript / TypeScript
+- **Ecosystem:** React Native, Expo, Apache, Virtualmin / Webmin
+- **Hardware & IoT:** ESP32, SIM800L, various sensor modules
+- **AI & Education:** Moodle plugin development, AI agents, Prompt engineering
 
 ---
 
-### 📬 Gde me možete naći:
-- **LinkedIn:** [Tvoj LinkedIn URL]
-- **Web / Institution:** [Link do škole ili tvog projekta]
+### 📊 My GitHub Statistics:
+
+![Boban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blagojevicboban&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blagojevicboban&layout=compact&theme=radical)
+
+---
+
+### 📬 Connect with me:
+- **LinkedIn:** [linkedin.com/in/blagojevicboban](https://www.linkedin.com/in/blagojevicboban)
+- **Institution:** [Tehnička škola Pirot](-ovde-možeš-staviti-link-škole-ako-želiš-)
