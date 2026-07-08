@@ -37,22 +37,22 @@ An advanced, wearable IoT safety platform designed for elderly and high-risk pat
 - **Tech Stack:** ESP32-S3, SIM800L (GSM/GPRS), LVGL Graphics Library, Pulse Oximeter & IMU Sensors, C/C++ (ESP-IDF).
 
 #### 🥽 [ARVR4VET & GEAR Platform](https://github.com/blagojevicboban/cnn-arvr)
-- **Description:** Leading the engineering and integration hub for an international Erasmus+ initiative. Developing hardware-agnostic XR (AR/VR) simulations for industrial and technical education, focusing on interactive computer network configurations (CNN) and robotics.
-- **Tech Stack:** WebXR, JavaScript, Three.js / A-Frame, HTML5, AI Assistant Integration.
-- **Repository:** 🔗 **[cnn-arvr](https://github.com/blagojevicboban/cnn-arvr)** - Core code and assets for the computer network VR/AR simulation modules.
-
-#### 🥽 [ARVR4VET & GEAR Platform](https://github.com/blagojevicboban/GEAR)
-- **Description:** Leading the engineering and integration hub for an international Erasmus+ initiative. Creating hardware-agnostic XR (AR/VR) simulations for industrial education, including robotics and computer network configuration.
-- **Tech Stack:** WebXR, JavaScript, Three.js / A-Frame, AI Assistant Integration.
+Leading the engineering and integration hub for international Erasmus+ initiatives, developing hardware-agnostic XR (AR/VR) simulations for industrial education.
+- 🔗 **[cnn-arvr](https://github.com/blagojevicboban/cnn-arvr)** - Core code and interactive assets for computer network VR/AR simulation modules. *Tech: WebXR, JavaScript, Three.js / A-Frame.*
+- 🔗 **[moodle-mod_gear](https://github.com/blagojevicboban/moodle-mod_gear)** - Custom Moodle activity module designed to seamlessly integrate and manage GEAR platform XR simulations within the LMS environment. *Tech: PHP, Moodle Architecture.*
 
 #### 📱 PADRION CONNECT (Institutional / Private Repository)
 - **Description:** A cross-platform mobile application developed as a pilot solution for the Interreg IPA Adrion project ecosystem, focusing on seamless regional connectivity and user data management.
 - **Tech Stack:** React Native, Expo, TypeScript.
 
-#### 🤖 [tiny_aipromptgen (Moodle AI Plugin)](https://github.com/blagojevicboban)
+#### 🤖 [moodle-block_aipromptgen (Moodle AI Plugin)](https://github.com/blagojevicboban/moodle-block_aipromptgen)
 - **Description:** A custom block and text-editor plugin for the Moodle LMS designed to empower vocational teachers by automating and optimizing educational prompt generation through OpenAI/Gemini API integrations.
 - **Tech Stack:** PHP, Moodle Plugin Architecture, JavaScript, REST APIs.
-
+- **Repository:** 🔗 **[moodle-block_aipromptgen](https://github.com/blagojevicboban/moodle-block_aipromptgen)** - Core source code for the Moodle AI integration block.
+#### 🤖 [moodle-tiny_aipromptgen (Moodle AI Plugin)](https://github.com/blagojevicboban/moodle-tiny_aipromptgen)
+- **Description:** A custom TinyMCE text-editor integration for the Moodle LMS designed to empower vocational teachers by automating and optimizing educational prompt generation through OpenAI/Gemini API integrations.
+- **Tech Stack:** PHP, Moodle Plugin Architecture (TinyMCE subplugin), JavaScript, REST APIs.
+- **Repository:** 🔗 **[moodle-tiny_aipromptgen](https://github.com/blagojevicboban/moodle-tiny_aipromptgen)** - Core source code for the Moodle AI editor plugin.
 ---
 
 ### 📬 Connect with me:
