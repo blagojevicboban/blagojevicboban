@@ -26,6 +26,26 @@ I am an IT Specialist, Software Developer, and Educator focused on bridging the 
 
 ---
 
+### 📂 Featured Projects:
+
+#### 🌟 [LifeLink - Smart Safety Bracelet](https://github.com/blagojevicboban)
+- **Description:** An advanced, wearable IoT safety device designed for elderly and high-risk patients. Features real-time health monitoring, fall detection, and independent cellular emergency alerting.
+- **Tech Stack:** ESP32-S3, SIM800L (GSM/GPRS), LVGL Graphics Library, Pulse Oximeter & IMU Sensors, C/C++ (ESP-IDF).
+
+#### 🥽 [ARVR4VET & GEAR Platform](https://github.com/blagojevicboban)
+- **Description:** Leading the engineering and integration hub for an international Erasmus+ initiative. Creating hardware-agnostic XR (AR/VR) simulations for industrial education, including robotics and computer network configuration.
+- **Tech Stack:** WebXR, JavaScript, Three.js / A-Frame, AI Assistant Integration.
+
+#### 📱 [PADRION CONNECT](https://github.com/blagojevicboban)
+- **Description:** A cross-platform mobile application developed as a pilot solution for the Interreg IPA Adrion project ecosystem, focusing on seamless regional connectivity and user data management.
+- **Tech Stack:** React Native, Expo, TypeScript.
+
+#### 🤖 [tiny_aipromptgen (Moodle AI Plugin)](https://github.com/blagojevicboban)
+- **Description:** A custom block and text-editor plugin for the Moodle LMS designed to empower vocational teachers by automating and optimizing educational prompt generation through OpenAI/Gemini API integrations.
+- **Tech Stack:** PHP, Moodle Plugin Architecture, JavaScript, REST APIs.
+
+---
+
 ### 📬 Connect with me:
 - **LinkedIn:** [linkedin.com/in/blagojevicboban](https://www.linkedin.com/in/blagojevicboban)
-- **Institution:** [Tehnička škola Pirot](-ovde-možeš-staviti-link-škole-ako-želiš-)
+- **Institution:** [Tehnička škola Pirot](http://www.tsp.edu.rs)
