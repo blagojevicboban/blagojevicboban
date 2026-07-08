@@ -36,6 +36,11 @@ An advanced, wearable IoT safety platform designed for elderly and high-risk pat
 - **Description:** An advanced, wearable IoT safety device designed for elderly and high-risk patients. Features real-time health monitoring, fall detection, and independent cellular emergency alerting.
 - **Tech Stack:** ESP32-S3, SIM800L (GSM/GPRS), LVGL Graphics Library, Pulse Oximeter & IMU Sensors, C/C++ (ESP-IDF).
 
+#### 🥽 [ARVR4VET & GEAR Platform](https://github.com/blagojevicboban/cnn-arvr)
+- **Description:** Leading the engineering and integration hub for an international Erasmus+ initiative. Developing hardware-agnostic XR (AR/VR) simulations for industrial and technical education, focusing on interactive computer network configurations (CNN) and robotics.
+- **Tech Stack:** WebXR, JavaScript, Three.js / A-Frame, HTML5, AI Assistant Integration.
+- **Repository:** 🔗 **[cnn-arvr](https://github.com/blagojevicboban/cnn-arvr)** - Core code and assets for the computer network VR/AR simulation modules.
+
 #### 🥽 [ARVR4VET & GEAR Platform](https://github.com/blagojevicboban/GEAR)
 - **Description:** Leading the engineering and integration hub for an international Erasmus+ initiative. Creating hardware-agnostic XR (AR/VR) simulations for industrial education, including robotics and computer network configuration.
 - **Tech Stack:** WebXR, JavaScript, Three.js / A-Frame, AI Assistant Integration.
