@@ -28,15 +28,19 @@ I am an IT Specialist, Software Developer, and Educator focused on bridging the 
 
 ### 📂 Featured Projects:
 
-#### 🌟 [LifeLink - Smart Safety Bracelet](https://github.com/blagojevicboban)
+#### 🌟 LifeLink - Smart Safety Bracelet Ecosystem
+An advanced, wearable IoT safety platform designed for elderly and high-risk patients, featuring real-time health monitoring, fall detection, and independent cellular emergency alerting.
+- 📟 **[LifeLink_ESP32App](https://github.com/blagojevicboban/LifeLink_ESP32App)** - Core firmware for the wearable device handling sensor fusion, LTE communication, and power management. *Tech: ESP32-S3, C/C++ (ESP-IDF), SIM800L, IMU & Pulse Oximeter Sensors.*
+- 📱 **[LifeLink_MobileApp](https://github.com/blagojevicboban/LifeLink_MobileApp)** - Companion mobile application for caregivers to track patient vitals, receive real-time alerts, and manage device configurations. *Tech: React Native, JavaScript / TypeScript.*
+- 🌐 **[LifeLink_WebSite](https://github.com/blagojevicboban/LifeLink_WebSite)** - Central web platform and dashboard for system monitoring, user onboarding, and analytics. *Tech: PHP, JavaScript, HTML5/CSS3.*
 - **Description:** An advanced, wearable IoT safety device designed for elderly and high-risk patients. Features real-time health monitoring, fall detection, and independent cellular emergency alerting.
 - **Tech Stack:** ESP32-S3, SIM800L (GSM/GPRS), LVGL Graphics Library, Pulse Oximeter & IMU Sensors, C/C++ (ESP-IDF).
 
-#### 🥽 [ARVR4VET & GEAR Platform](https://github.com/blagojevicboban)
+#### 🥽 [ARVR4VET & GEAR Platform](https://github.com/blagojevicboban/GEAR)
 - **Description:** Leading the engineering and integration hub for an international Erasmus+ initiative. Creating hardware-agnostic XR (AR/VR) simulations for industrial education, including robotics and computer network configuration.
 - **Tech Stack:** WebXR, JavaScript, Three.js / A-Frame, AI Assistant Integration.
 
-#### 📱 [PADRION CONNECT](https://github.com/blagojevicboban)
+#### 📱 PADRION CONNECT (Institutional / Private Repository)
 - **Description:** A cross-platform mobile application developed as a pilot solution for the Interreg IPA Adrion project ecosystem, focusing on seamless regional connectivity and user data management.
 - **Tech Stack:** React Native, Expo, TypeScript.
 
