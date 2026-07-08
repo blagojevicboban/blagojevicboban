@@ -35,16 +35,15 @@ An advanced, wearable IoT safety platform designed for elderly and high-risk pat
 - 🌐 **[LifeLink_WebSite](https://github.com/blagojevicboban/LifeLink_WebSite)** - Central web platform and dashboard for system monitoring, user onboarding, and analytics. *Tech: PHP, JavaScript, HTML5/CSS3.*
 - **Description:** An advanced, wearable IoT safety device designed for elderly and high-risk patients. Features real-time health monitoring, fall detection, and independent cellular emergency alerting.
 - **Tech Stack:** ESP32-S3, SIM800L (GSM/GPRS), LVGL Graphics Library, Pulse Oximeter & IMU Sensors, C/C++ (ESP-IDF).
-
 #### 🥽 [ARVR4VET & GEAR Platform](https://github.com/blagojevicboban/cnn-arvr)
 Leading the engineering and integration hub for international Erasmus+ initiatives, developing hardware-agnostic XR (AR/VR) simulations for industrial education.
 - 🔗 **[cnn-arvr](https://github.com/blagojevicboban/cnn-arvr)** - Core code and interactive assets for computer network VR/AR simulation modules. *Tech: WebXR, JavaScript, Three.js / A-Frame.*
 - 🔗 **[moodle-mod_gear](https://github.com/blagojevicboban/moodle-mod_gear)** - Custom Moodle activity module designed to seamlessly integrate and manage GEAR platform XR simulations within the LMS environment. *Tech: PHP, Moodle Architecture.*
-
+- 🔗 **[QuestGear3DStudio](https://github.com/blagojevicboban/QuestGear3DStudio)** - An interactive 3D/VR environment and studio setup optimized for standalone VR headsets (like Meta Quest), focusing on educational content creation. *Tech: WebXR, Three.js / A-Frame, 3D Assets.*
+- 🔗 **[QuestGear3DScan](https://github.com/blagojevicboban/QuestGear3DScan)** - Tools and modules dedicated to 3D scanning, photogrammetry data handling, and asset optimization for immersive educational simulations. *Tech: JavaScript, 3D Web Tools.*
 #### 📱 PADRION CONNECT (Institutional / Private Repository)
 - **Description:** A cross-platform mobile application developed as a pilot solution for the Interreg IPA Adrion project ecosystem, focusing on seamless regional connectivity and user data management.
 - **Tech Stack:** React Native, Expo, TypeScript.
-
 #### 🤖 [moodle-block_aipromptgen (Moodle AI Plugin)](https://github.com/blagojevicboban/moodle-block_aipromptgen)
 - **Description:** A custom block and text-editor plugin for the Moodle LMS designed to empower vocational teachers by automating and optimizing educational prompt generation through OpenAI/Gemini API integrations.
 - **Tech Stack:** PHP, Moodle Plugin Architecture, JavaScript, REST APIs.
@@ -53,6 +52,10 @@ Leading the engineering and integration hub for international Erasmus+ initiativ
 - **Description:** A custom TinyMCE text-editor integration for the Moodle LMS designed to empower vocational teachers by automating and optimizing educational prompt generation through OpenAI/Gemini API integrations.
 - **Tech Stack:** PHP, Moodle Plugin Architecture (TinyMCE subplugin), JavaScript, REST APIs.
 - **Repository:** 🔗 **[moodle-tiny_aipromptgen](https://github.com/blagojevicboban/moodle-tiny_aipromptgen)** - Core source code for the Moodle AI editor plugin.
+#### 👟 [AuraFit](https://github.com/blagojevicboban/AuraFit)
+- **Description:** A modern mobile application designed for fitness tracking, health data monitoring, and user wellness management, showcasing robust client-side architecture and seamless data handling.
+- **Tech Stack:** React Native / Mobile Development Frameworks, JavaScript/TypeScript.
+
 ---
 
 ### 📬 Connect with me:
