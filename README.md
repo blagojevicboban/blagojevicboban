@@ -20,9 +20,9 @@ I am an IT Specialist, Software Developer, and Educator focused on bridging the 
 
 ### 📊 My GitHub Statistics:
 
-![Boban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blagojevicboban&show_icons=true&theme=radical)
+![Boban's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=blagojevicboban&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blagojevicboban&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=blagojevicboban&layout=compact&theme=radical)
 
 ---
 
