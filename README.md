@@ -1,52 +1,102 @@
-# Hi there, I'm Boban! 👋
+# Hi there, I'm Boban Blagojević! 👋
 
-I am an IT Specialist, Software Developer, and Educator focused on bridging the gap between cutting-edge technology and vocational education. I explore the integration of AI in educational environments, build hardware-agnostic XR simulations, and design IoT architectures for real-world impact.
+[![GitHub followers](https://img.shields.io/github/followers/blagojevicboban?style=social)](https://github.com/blagojevicboban)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/blagojevicboban)
+[![Institution](https://img.shields.io/badge/Tehnička%20škola%20Pirot-tsp.edu.rs-red)](http://www.tsp.edu.rs)
 
----
-
-### 🚀 What I'm Currently Developing & Exploring:
-- **AI-Driven VET Tools:** Developing and integrating AI assistants and generative tools within LMS platforms (Moodle plugins).
-- **IoT & Embedded Systems:** Designing wearable devices equipped with advanced medical sensors and LTE modules (ESP32-S3 ecosystem).
-- **WebXR & Simulations:** Creating interactive, hardware-agnostic simulations for industrial and technical vocational education.
-- **Modern App Ecosystems:** Building mobile and web applications utilizing agile and AI-accelerated ("agentic") development practices.
-
-### 🛠️ Technologies & Tools:
-- **Languages:** C, C++, C#, PHP, Python, JavaScript / TypeScript
-- **Ecosystem:** React Native, Expo, Apache, Virtualmin / Webmin
-- **Hardware & IoT:** ESP32, SIM800L, various sensor modules
-- **AI & Education:** Moodle plugin development, AI agents, Prompt engineering
-
-
-### 📂 Featured Projects:
-
-#### 🌟 LifeLink - Smart Safety Bracelet Ecosystem
-An advanced, wearable IoT safety platform designed for elderly and high-risk patients, featuring real-time health monitoring, fall detection, and independent cellular emergency alerting.
-- 📟 **[LifeLink_ESP32App](https://github.com/blagojevicboban/LifeLink_ESP32App)** - Core firmware for the wearable device handling sensor fusion, LTE communication, and power management. *Tech: ESP32-S3, C/C++ (ESP-IDF), SIM800L, IMU & Pulse Oximeter Sensors.*
-- 📱 **[LifeLink_MobileApp](https://github.com/blagojevicboban/LifeLink_MobileApp)** - Companion mobile application for caregivers to track patient vitals, receive real-time alerts, and manage device configurations. *Tech: React Native, JavaScript / TypeScript.*
-- 🌐 **[LifeLink_WebSite](https://github.com/blagojevicboban/LifeLink_WebSite)** - Central web platform and dashboard for system monitoring, user onboarding, and analytics. *Tech: PHP, JavaScript, HTML5/CSS3.*
-#### 🥽 [ARVR4VET & GEAR Platform](https://github.com/blagojevicboban/cnn-arvr)
-Leading the engineering and integration hub for international Erasmus+ initiatives, developing hardware-agnostic XR (AR/VR) simulations for industrial education.
-- 🔗 **[cnn-arvr](https://github.com/blagojevicboban/cnn-arvr)** - Core code and interactive assets for computer network VR/AR simulation modules. *Tech: WebXR, JavaScript, Three.js / A-Frame.*
-- 🔗 **[moodle-mod_gear](https://github.com/blagojevicboban/moodle-mod_gear)** - Custom Moodle activity module designed to seamlessly integrate and manage GEAR platform XR simulations within the LMS environment. *Tech: PHP, Moodle Architecture.*
-- 🔗 **[QuestGear3DStudio](https://github.com/blagojevicboban/QuestGear3DStudio)** - An interactive 3D/VR environment and studio setup optimized for standalone VR headsets (like Meta Quest), focusing on educational content creation. *Tech: WebXR, Three.js / A-Frame, 3D Assets.*
-- 🔗 **[QuestGear3DScan](https://github.com/blagojevicboban/QuestGear3DScan)** - Tools and modules dedicated to 3D scanning, photogrammetry data handling, and asset optimization for immersive educational simulations. *Tech: JavaScript, 3D Web Tools.*
-#### 📱 PADRION CONNECT (Institutional / Private Repository)
-- **Description:** A cross-platform mobile application developed as a pilot solution for the Interreg IPA Adrion project ecosystem, focusing on seamless regional connectivity and user data management.
-- **Tech Stack:** React Native, Expo, TypeScript.
-#### 🤖 [moodle-block_aipromptgen (Moodle AI Plugin)](https://github.com/blagojevicboban/moodle-block_aipromptgen)
-- **Description:** A custom block and text-editor plugin for the Moodle LMS designed to empower vocational teachers by automating and optimizing educational prompt generation through OpenAI/Gemini API integrations.
-- **Tech Stack:** PHP, Moodle Plugin Architecture, JavaScript, REST APIs.
-- **Repository:** 🔗 **[moodle-block_aipromptgen](https://github.com/blagojevicboban/moodle-block_aipromptgen)** - Core source code for the Moodle AI integration block.
-#### 🤖 [moodle-tiny_aipromptgen (Moodle AI Plugin)](https://github.com/blagojevicboban/moodle-tiny_aipromptgen)
-- **Description:** A custom TinyMCE text-editor integration for the Moodle LMS designed to empower vocational teachers by automating and optimizing educational prompt generation through OpenAI/Gemini API integrations.
-- **Tech Stack:** PHP, Moodle Plugin Architecture (TinyMCE subplugin), JavaScript, REST APIs.
-- **Repository:** 🔗 **[moodle-tiny_aipromptgen](https://github.com/blagojevicboban/moodle-tiny_aipromptgen)** - Core source code for the Moodle AI editor plugin.
-#### 👟 [AuraFit](https://github.com/blagojevicboban/AuraFit)
-- **Description:** A modern mobile application designed for fitness tracking, health data monitoring, and user wellness management, showcasing robust client-side architecture and seamless data handling.
-- **Tech Stack:** React Native / Mobile Development Frameworks, JavaScript/TypeScript.
+I am an **IT Specialist, Software Architect, and Vocational Educator** passionate about bridging advanced technology and practical education. My work spans **open-source EdTech ecosystems (Moodle & interactive learning)**, **Enterprise software (WPF, .NET & Cloud)**, **Edge AI & student innovation**, **WebXR simulations**, and **IoT medical/safety wearables**.
 
 ---
 
-### 📬 Connect with me:
-- **LinkedIn:** [linkedin.com/in/blagojevicboban](https://www.linkedin.com/in/blagojevicboban)
-- **Institution:** [Tehnička škola Pirot](http://www.tsp.edu.rs)
+### 🚀 Areas of Expertise & Current Focus:
+- **EdTech & Moodle Innovation:** Architect of comprehensive LMS ecosystems — from in-browser Monaco code execution (CodeLab) and visual flowchart algorithms to AI simulation auto-grading and pedagogical prompt builders.
+- **Enterprise Engineering:** Full-stack architecture of modular ERP systems (WPF, ASP.NET Core, React/Vite, multi-tenant SQL/PostgreSQL/SQLite).
+- **Edge AI & Applied Machine Learning:** Mentoring high-school innovators in deploying on-device AI (YOLO, Whisper, edge audio & vision models).
+- **WebXR & Digital Twins:** Creating hardware-agnostic 3D/VR simulations and LMS activity modules for industrial and vocational training.
+- **IoT & Embedded Systems:** Designing custom wearable devices with sensor fusion and independent LTE telecare reporting (ESP32-S3 ecosystem).
+
+---
+
+### 🛠️ Tech Stack & Tooling:
+
+- **Languages:** C, C++, C# (.NET 8/9), PHP, Python, JavaScript, TypeScript, SQL
+- **Frameworks & UI:** WPF (MVVM, Material Design), ASP.NET Core, React, Vite, React Native, Expo, QuestPDF
+- **EdTech & LMS:** Moodle Plugin Development (Activities, Filters, Question Types, TinyMCE subplugins, Blocks), Jobe Sandbox
+- **3D & XR:** WebXR, Three.js, A-Frame, Meta Quest 3 RGB-D pipeline, Photogrammetry
+- **Hardware & IoT:** ESP32 / ESP32-S3 (ESP-IDF, FreeRTOS), SIM800L / LTE, IMU, PPG / SpO2 sensors
+- **DevOps & Platforms:** Docker, Linux, Virtualmin, Apache, Nginx, Git, GitHub Actions
+
+---
+
+### 📂 Featured Ecosystems & Projects:
+
+#### 🎓 1. Moodle EdTech Ecosystem (Open-Source Learning Suites)
+
+##### 💻 [CodeLab Suite](https://github.com/blagojevicboban/moodle-qtype_codelab) — Interactive In-Browser Programming
+A complete end-to-end coding ecosystem for Moodle, bringing VS Code power (Monaco Editor) directly into course content and automated quiz grading:
+- 🧩 **[moodle-tiny_codelab](https://github.com/blagojevicboban/moodle-tiny_codelab)** — TinyMCE visual editor plugin embedding Monaco code blocks with multi-language syntax highlighting (C, C++, C#, Java, Python, PHP, JS, SQL, HTML).
+- 🔍 **[moodle-filter_codelab](https://github.com/blagojevicboban/moodle-filter_codelab)** — Course page filter rendering interactive, editable, and runnable code editors in any activity.
+- 🎯 **[moodle-qtype_codelab](https://github.com/blagojevicboban/moodle-qtype_codelab)** — Automated quiz question type grading code on Jobe sandboxes against test cases.
+- ⚡ **[codelab-runner](https://github.com/blagojevicboban/codelab-runner)** — Interactive WebSocket execution server running compiled programs (C, C++, Java, C#) in real-time sandboxes with live stdin/stdout interaction.
+
+##### 📊 [Algorithm & Flowchart Suite](https://github.com/blagojevicboban/moodle-qtype_algorithm) — Visual Flowchart Programming
+A Flowgorithm-inspired visual programming suite for teaching logic and algorithms inside Moodle:
+- 🧩 **[moodle-tiny_algorithm](https://github.com/blagojevicboban/moodle-tiny_algorithm)** — Interactive flowchart visual designer in TinyMCE with instant pseudocode generation and step-by-step debugger.
+- 🔍 **[moodle-filter_algorithm](https://github.com/blagojevicboban/moodle-filter_algorithm)** — Embeds interactive visual flowchart execution directly into learning pages.
+- 🎯 **[moodle-qtype_algorithm](https://github.com/blagojevicboban/moodle-qtype_algorithm)** — Quiz question type where students build flowcharts with automatic validation and step-by-step scoring.
+
+##### 🤖 [AI for VET & Simulation Suite](https://github.com/blagojevicboban/moodle-qtype_aisim) (Erasmus+)
+Next-generation vocational assessment integrating interactive AI simulations into Moodle:
+- 🧩 **[moodle-tiny_aisim](https://github.com/blagojevicboban/moodle-tiny_aisim)** — Visual scenario authoring plugin inside the Moodle editor.
+- 🔍 **[moodle-filter_aisim](https://github.com/blagojevicboban/moodle-filter_aisim)** — Embedded interactive simulation viewer.
+- 🎯 **[moodle-qtype_aisim](https://github.com/blagojevicboban/moodle-qtype_aisim)** — Simulation-based quiz question type with automated competency scoring.
+
+##### 🧠 [AI Prompt Generator Suite](https://github.com/blagojevicboban/moodle-tiny_aipromptgen) — LLM-Assisted Course Creation
+- 🤖 **[moodle-tiny_aipromptgen](https://github.com/blagojevicboban/moodle-tiny_aipromptgen)** — TinyMCE plugin providing guided pedagogical prompt engineering integrated with OpenAI and local Ollama servers.
+- 🧱 **[moodle-block_aipromptgen](https://github.com/blagojevicboban/moodle-block_aipromptgen)** — Course-level teacher assistant block for AI lesson plan generation.
+
+---
+
+#### 💼 2. [ERPi](https://github.com/blagojevicboban/ERPi) — Enterprise Resource Planning Ecosystem
+A modern enterprise ERP solution built for comprehensive business management:
+- **Core Architecture:** Modular .NET 8/9 WPF desktop application with dynamic MVVM architecture, SQLite / PostgreSQL / MS SQL Server database providers, and multi-tenant schema sync.
+- **Enterprise Modules:**
+  - 💰 **[ERPiFinansije](https://github.com/blagojevicboban/ERPiFinansije):** General ledger (Glavna knjiga), journal entries, accounts payable/receivable, financial statements.
+  - 🏢 **[ERPiSredstva](https://github.com/blagojevicboban/ERPiSredstva):** Fixed assets lifecycle management, automated tax & accounting depreciation, inventory barcode audits.
+  - 👥 **[ERPiZarade](https://github.com/blagojevicboban/ERPiZarade):** Payroll calculation, tax filings (PPP-PD XML), virmani, and employee tracking.
+  - 📦 **Robno-Materijalno:** Invoicing, warehouse inventory, kalkulacije, fiscal integration, and QuestPDF report engine.
+- **Web & B2B:** ASP.NET Core REST API backend and modern React/Vite responsive B2B WebShop portal.
+
+---
+
+#### 🥽 3. [GEAR & ARVR4VET](https://github.com/blagojevicboban/GEAR) — WebXR & Digital Twins for VET
+Hardware-agnostic immersive learning platform developed for international Erasmus+ initiatives:
+- 🌐 **[GEAR](https://github.com/blagojevicboban/GEAR)** — Open-source WebXR platform allowing schools to upload, manage, and interact with 3D digital twins of industrial equipment on Meta Quest, mobile, and desktop.
+- 📦 **[moodle-mod_gear](https://github.com/blagojevicboban/moodle-mod_gear)** — Custom Moodle activity module integrating GEAR 3D/VR simulations and student tracking into the LMS.
+- 🎥 **[QuestGear3DStudio](https://github.com/blagojevicboban/QuestGear3DStudio)** & **[QuestGear3DScan](https://github.com/blagojevicboban/QuestGear3DScan)** — Spatial computing toolchain capturing synchronized RGB-D data from Meta Quest 3 headsets to reconstruct high-fidelity 3D meshes using TSDF algorithms.
+- 🌐 **[cnn-arvr](https://github.com/blagojevicboban/cnn-arvr)** — Interactive WebXR simulations for computer network hardware training.
+
+---
+
+#### 🌟 4. [LifeLink](https://github.com/blagojevicboban/LifeLink_ESP32App) — Smart Telecare & Safety Bracelet Ecosystem
+An IoT safety platform designed for vulnerable patients (elderly, dialysis, diabetic patients) providing autonomous fall detection and cellular emergency alerting without requiring a smartphone:
+- 📟 **[LifeLink_ESP32App](https://github.com/blagojevicboban/LifeLink_ESP32App)** — ESP32-S3 firmware in C/C++ (ESP-IDF) managing IMU fall detection algorithms, pulse oximetry, LTE/GSM modem communications, and ultra-low-power sleep modes.
+- 📱 **[LifeLink_MobileApp](https://github.com/blagojevicboban/LifeLink_MobileApp)** — Mobile companion app for caregivers to track vitals, geofencing, and emergency alerts.
+- 🌐 **[LifeLink_WebSite](https://github.com/blagojevicboban/LifeLink_WebSite)** — Central telecare operations dashboard and real-time monitoring portal.
+
+---
+
+#### 💡 5. Edge AI & High-School Innovation Mentorship
+Leading and mentoring high-school students at **Tehnička škola Pirot** in creating real-world applied AI solutions ([edgeai.tsp.edu.rs](https://edgeai.tsp.edu.rs)):
+- 🎙️ **Titlovi Uživo** — Offline real-time speech recognition for hearing-impaired students running local Whisper models.
+- 🌲 **Čuvar Stare planine** — Edge audio classification for bioacoustic monitoring and chainsaw detection.
+- 🚸 **Pametna Zebra** — Computer vision (YOLO) pedestrian detection and autonomous speed warning.
+- 🏭 **Kontrola Kvaliteta** — Industrial edge defect detection and sorting on embedded vision kits.
+- 👐 **Znakovna Azbuka** — Real-time gesture and sign language recognition with edge camera feedback.
+
+---
+
+### 📬 Connect & Collaborate:
+- 💼 **LinkedIn:** [linkedin.com/in/blagojevicboban](https://www.linkedin.com/in/blagojevicboban)
+- 🏫 **School:** [Tehnička škola Pirot](http://www.tsp.edu.rs)
+- 🌐 **GitHub:** [@blagojevicboban](https://github.com/blagojevicboban)
